@@ -6,7 +6,7 @@ I’m passionate about building scalable, efficient applications and continuousl
 
 ## 🚀 Projects Portfolio
 Here are some of my key projects:
-- 
+- [**Blob Storage API**](https://github.com/alonsoegm/BlobStorageApi) - Azure Blob Storage Service API built with .NET Core 8.
 
 ## 🛠️ Tech Stack
 **Languages:** C#, TypeScript, JavaScript, SQL  
