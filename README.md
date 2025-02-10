@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Alonso!
 
-<!--
-**alonsoegm/alonsoegm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Full Stack Developer** | 🌐 **.NET | Angular | Azure** | 🧠 **Continuous Learner**
 
-Here are some ideas to get you started:
+I’m passionate about building scalable, efficient applications and continuously improving my skills in software engineering. With over **10 years of experience** in full-stack development, I specialize in **.NET Core**, **Angular**, and **Azure Cloud Services**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects Portfolio
+Here are some of my key projects:
+- 
+
+## 🛠️ Tech Stack
+**Languages:** C#, TypeScript, JavaScript, SQL  
+**Frameworks:** .NET Core, Angular, React  
+**Cloud:** Azure (App Services, Blob Storage, Functions)  
+**Tools:** Docker, GitHub Actions, AG Grid, Tailwind CSS  
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/alonsogallegosmesen)
