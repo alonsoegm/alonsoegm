@@ -7,11 +7,12 @@ I’m passionate about building scalable, efficient applications and continuousl
 ## 🚀 Projects Portfolio
 Here are some of my key projects:
 - [**Blob Storage API**](https://github.com/alonsoegm/BlobStorageApi) - Azure Blob Storage Service API built with .NET Core 8.
+- [**Cosmos DB API**](https://github.com/alonsoegm/CosmosDbAPI) - Azure Cosmos DB API built with .NET Core 8.
 
 ## 🛠️ Tech Stack
 **Languages:** C#, TypeScript, JavaScript, SQL  
 **Frameworks:** .NET Core, Angular, React  
-**Cloud:** Azure (App Services, Blob Storage, Functions)  
+**Cloud:** Azure (App Services, Blob Storage, Functions, CosmosDb)  
 **Tools:** Docker, GitHub Actions, AG Grid, Tailwind CSS  
 
 ## 📫 How to Reach Me
