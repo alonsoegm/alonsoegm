@@ -9,10 +9,10 @@ I build reliable, scalable systems in Azure—then polish them until they feel e
 
 ## 🎓 Certifications & Focus
 
-![AZ-204](https://img.shields.io/badge/AZ--204-Azure_Developer_Associate-0078D4?logo=microsoftazure&logoColor=white)
-![AI-900](https://img.shields.io/badge/AI--900-Microsoft_Azure_AI_Fundamentals-6A5ACD?logo=microsoftazure&logoColor=white)
-![DP-900](https://img.shields.io/badge/DP--900-Microsoft_Azure_Data_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)
-![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Azure_Fundamentals-00ADEF?logo=microsoftazure&logoColor=white)
+[![AZ-204](https://img.shields.io/badge/AZ--204-Azure_Developer_Associate-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/DA97E70D84C54CCB?sharingId=4C15B2A46C8049F9)
+[![AI-900](https://img.shields.io/badge/AI--900-Microsoft_Azure_AI_Fundamentals-6A5ACD?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/4CF5A4877D420994?sharingId=4C15B2A46C8049F9)
+[![DP-900](https://img.shields.io/badge/DP--900-Microsoft_Azure_Data_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/FB4508D9A79BAA1D?sharingId=4C15B2A46C8049F9)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Azure_Fundamentals-00ADEF?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/446A115CEA3CE5CF?sharingId=4C15B2A46C8049F9)
 ![AI-102](https://img.shields.io/badge/AI--102-In_Progress-FF8C00?logo=microsoftazure&logoColor=white)
 ![DP-100](https://img.shields.io/badge/DP--100-In_Progress-FF8C00?logo=microsoftazure&logoColor=white)
 
