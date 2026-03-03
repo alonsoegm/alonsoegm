@@ -1,75 +1,100 @@
 # 👋 Hey, I'm Alonso
 
-**Senior Full-Stack & Azure Engineer** • **.NET + Angular** • **Cloud • Data • AI**  
-I build reliable, scalable systems in Azure—then polish them until they feel effortless to use.
+**Senior Full-Stack & Azure Engineer** • **.NET + Angular/React** • **Cloud • Data • AI**  
+I build reliable, scalable systems in Azure—then ship them with the discipline to make impact.
 
-> My purpose: **discipline + learning + the correct use of technology** to lead by example and positively impact the world.
+> My purpose: **discipline + continuous learning + pragmatic technology** to lead by example and deliver measurable value.
 
 ---
 
-## 🎓 Certifications & Focus
+## 🎓 Certifications & Roadmap
 
 [![AZ-204](https://img.shields.io/badge/AZ--204-Azure_Developer_Associate-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/DA97E70D84C54CCB?sharingId=4C15B2A46C8049F9)
-[![AI-900](https://img.shields.io/badge/AI--900-Microsoft_Azure_AI_Fundamentals-6A5ACD?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/4CF5A4877D420994?sharingId=4C15B2A46C8049F9)
-[![DP-900](https://img.shields.io/badge/DP--900-Microsoft_Azure_Data_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/FB4508D9A79BAA1D?sharingId=4C15B2A46C8049F9)
-[![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Azure_Fundamentals-00ADEF?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/446A115CEA3CE5CF?sharingId=4C15B2A46C8049F9)
-![AI-102](https://img.shields.io/badge/AI--102-In_Progress-FF8C00?logo=microsoftazure&logoColor=white)
-![DP-100](https://img.shields.io/badge/DP--100-In_Progress-FF8C00?logo=microsoftazure&logoColor=white)
+[![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-6A5ACD?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/3FDA58E6E687DE75?sharingId=4C15B2A46C8049F9)
+[![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-6A5ACD?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/4CF5A4877D420994?sharingId=4C15B2A46C8049F9)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-00ADEF?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/446A115CEA3CE5CF?sharingId=4C15B2A46C8049F9)
+[![DP-900](https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AlonsoGallegos-4703/FB4508D9A79BAA1D?sharingId=4C15B2A46C8049F9)
 
-**Now:** mastering **AI-102 (Azure AI Engineer)** patterns — Generative AI apps, Retrieval-Augmented Generation (RAG), vector search, content safety, evaluations, and **Python + Django integration with Azure AI services**.  
+![AZ-104](https://img.shields.io/badge/AZ--104-Next_Target-FF8C00?logo=microsoftazure&logoColor=white)
+![AZ-305](https://img.shields.io/badge/AZ--305-Next_Target-FF8C00?logo=microsoftazure&logoColor=white)
 
-**Next:** pursuing **DP-100 (Azure Data Scientist)** — experimentation, MLOps, responsible ML, and applied **machine learning with Python on Azure ML**.
+**Current focus:** Building **production Generative AI** systems with Azure OpenAI—RAG pipelines, embeddings, vector search, content safety, and grounded chat. Integrating Python/Django with Azure AI services for intelligent backends.
 
----
-
-## 🚀 Selected Projects
-
-- **[FenecAI](https://github.com/alonsoegm/FenecAI)** – Azure-powered **Generative AI** platform (.NET 8):  
-  Chat (GPT-4), **RAG** with Azure AI Search, Embeddings, DALL·E, Content Safety, Metrics, full Swagger docs.
-- **[Backend .NET Clean Architecture](https://github.com/alonsoegm/backend-dotnetcore-fenec-api)** – High-performance API with Azure integration.
-- **[Blob Storage API](https://github.com/alonsoegm/BlobStorageApi)** – Robust file services on Azure Storage.
-- **[Cosmos DB API](https://github.com/alonsoegm/CosmosDbAPI)** – Data access patterns for Azure Cosmos DB.
-
-> I design systems to be **observable, secure, and maintainable**—not just “working”.
+**Next milestone:** **AZ-104** (Azure Administrator) and **AZ-305** (Azure Solutions Architect Expert) to design and operate enterprise-scale Azure architectures.
 
 ---
 
-## 🧰 Toolbox
+## 🚀 Featured Projects
 
-- **Languages:** C#, TypeScript, JavaScript, SQL  
-- **Backend:** .NET 8/7, ASP.NET Core, Minimal APIs, EF Core (database-first and code-first), Dapper  
-- **Frontend:** Angular, React, RxJS, NgRx, AG Grid, Tailwind  
-- **Cloud (Azure):** App Service, Functions, Storage, Cosmos DB, **Azure OpenAI**, **Azure AI Search**, **Azure AI Content Safety**, Azure Key Vault, Azure App Configuration, Event Grid  
-- **Data & AI:** Azure OpenAI (GPT-4, Embeddings, DALL·E), Vector Search, RAG, Azure ML (DP-100 track)  
-- **DevOps:** GitHub Actions, CI/CD, Docker, IaC (Bicep/ARM basics)  
-- **Practices:** Clean Architecture, SOLID, CQRS, Observability, Security by default
+- **[FenecAI](https://github.com/alonsoegm/FenecAI)** – Production **Generative AI** platform (.NET 8):  
+  GPT-4 Chat, **RAG** with Azure AI Search, Embeddings, DALL·E 3, Content Safety, Metrics, comprehensive API docs.
+- **[Backend .NET Clean Architecture](https://github.com/alonsoegm/backend-dotnetcore-fenec-api)** – Scalable API foundation with Azure integration.
+- **[Blob Storage API](https://github.com/alonsoegm/BlobStorageApi)** – Enterprise file services on Azure Storage.
+- **[Cosmos DB API](https://github.com/alonsoegm/CosmosDbAPI)** – Optimized data patterns for Azure Cosmos DB.
 
----
-
-## 🧭 What I’m Optimizing For (2025)
-
-- **GenAI in production**: evaluation, safety, grounding, cost/tokens, telemetry.
-- **Search + Data**: embeddings, chunking, hybrid search, index quality.
-- **DevEx**: clean public APIs, docs that teach, guardrails that scale.
-- **Python & Django integration** with Azure AI services — building intelligent APIs, ML-driven features, and scalable backend automation.
-- **Impact**: ship value consistently; teach by example; raise the bar.
+> I build systems that are **observable, secure, and maintainable from day one**—not technical debt disguised as MVPs.
 
 ---
 
-## 📚 Learning Roadmap
+## 🧰 Tech Stack
 
-- **AI-102**: GenAI apps in Azure, prompt engineering, orchestrators, vector stores, RAG, Content Safety, evaluation.  
-- **DP-100**: experiments, model lifecycle, responsible ML, MLOps on Azure ML.
-- Deepening expertise in **Python & Django** for backend AI integration, API orchestration, and Azure-based machine learning workflows.
+**Core:**  
+C# • TypeScript • JavaScript • Python • SQL
+
+**Backend:**  
+.NET 8/7 • ASP.NET Core • Minimal APIs • EF Core • Dapper • Django
+
+**Frontend:**  
+Angular • React • RxJS • NgRx • AG Grid • Tailwind CSS
+
+**Azure Cloud:**  
+App Service • Functions • Storage • Cosmos DB • **Azure OpenAI** • **Azure AI Search** • **Azure AI Content Safety** • Key Vault • App Configuration • Event Grid
+
+**AI & Data:**  
+Azure OpenAI (GPT-4, Embeddings, DALL·E) • Vector Search • RAG • Prompt Engineering • Semantic Kernel
+
+**DevOps & Practices:**  
+GitHub Actions • CI/CD • Docker • IaC (Bicep/ARM) • Clean Architecture • SOLID • CQRS • Observability • Security by Default
 
 ---
 
-## 📫 Connect
+## 🎯 Current Focus (2026)
 
-- **LinkedIn:** [Alonso Gallegos Mesen](https://www.linkedin.com/in/alonsogallegosmesen)  
-- **GitHub:** [@alonsoegm](https://github.com/alonsoegm)  
-- **Email:** [alonsoegm@gmail.com](mailto:alonsoegm@gmail.com)
+- **GenAI in Production**: Evaluation frameworks, content safety, grounding techniques, cost optimization, telemetry.
+- **Azure Architecture**: Designing resilient, secure, enterprise-scale solutions (AZ-104/AZ-305 track).
+- **Vector Search & RAG**: Embeddings strategy, chunking optimization, hybrid search, index quality.
+- **Python/Django + Azure AI**: Building intelligent APIs, ML-driven features, backend automation.
+- **Developer Experience**: APIs that teach, documentation that scales, guardrails that enable velocity.
 
 ---
 
-> “Excellence is a habit. I code with intention, learn with discipline, and build with integrity.”
+## 📚 Learning Path
+
+**Completed:**  
+✅ Azure Fundamentals (AZ-900)  
+✅ Azure Developer Associate (AZ-204)  
+✅ Azure AI Engineer Associate (AI-102)  
+✅ Azure Data Fundamentals (DP-900)  
+✅ Azure AI Fundamentals (AI-900)
+
+**In Progress:**  
+🎯 **AZ-104** – Azure Administrator Associate  
+🎯 **AZ-305** – Azure Solutions Architect Expert
+
+**Deep Dive Topics:**  
+- Generative AI orchestration patterns  
+- Vector databases & semantic search  
+- Azure AI services integration  
+- Enterprise architecture patterns  
+- Python for Azure AI automation
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alonso_Gallegos_Mesen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonsogallegosmesen)
+[![Email](https://img.shields.io/badge/Email-alonsoegm@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alonsoegm@gmail.com)
+
+---
+
+> "Excellence is a habit. I code with intention, learn with discipline, and ship with integrity."
